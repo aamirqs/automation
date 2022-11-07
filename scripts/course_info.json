@@ -1,0 +1,152 @@
+{
+  "programs": {
+    "name": "MS IT",
+    "courses_offered": {
+      "core_courses": [
+        {
+          "name": "Data Management for Analytics",
+          "credit": 3,
+          "id": "MIS 502"
+        },
+        {
+          "name": "Policy and Strategy for Information Technology and Analytics",
+          "credit": 3,
+          "id": "MIS 581"
+        },
+        {
+          "name": "Business Intelligence",
+          "credit": 3,
+          "id": "MIS 584"
+        }
+      ],
+      "specializations": [
+        {
+          "name": "Specialty in Information Systems Design",
+          "courses_offered": [
+            {
+              "name": "Database Applications Design and Development",
+              "credit": 3,
+              "id": "MIS 571"
+            },
+            {
+              "name": "Information Security Management",
+              "credit": 3,
+              "id": "MIS 582"
+            },
+            {
+              "name": "User Experience Design",
+              "credit": 3,
+              "id": "MIS 585"
+            }
+          ],
+          "min_credit_req": 9
+        },
+        {
+          "name": "Specialty in Data Analytics",
+          "courses_offered": [
+            {
+              "name": "Business Applications in Machine Learning",
+              "credit": 3,
+              "id": "MIS 587"
+            },
+            {
+              "name": "Data Mining Business Applications",
+              "credit": 3,
+              "id": "MKT 568"
+            },
+            {
+              "name": "course_with_options1",
+              "credit": 3,
+              "course_list": [
+                {
+                  "name": "Marketing Research",
+                  "credit": 3,
+                  "id": "MKT 562"
+                },
+                {
+                  "name": "Digital Marketing",
+                  "credit": 3,
+                  "id": "MKT 565"
+                }
+              ]
+            }
+          ],
+          "min_credit_req": 9
+        },
+        {
+          "name": "Specialty in Digital Transformation",
+          "courses_offered": [
+            {
+              "name": "Innovating with Information Systems",
+              "credit": 3,
+              "id": "MIS 500"
+            },
+            {
+              "name": "course_with_options1",
+              "credit": 3,
+              "course_list": [
+                {
+                  "name": "",
+                  "credit": 3,
+                  "id": "OIE 501"
+                },
+                {
+                  "name": "",
+                  "credit": 3,
+                  "id": "OIE 544"
+                },
+                {
+                  "name": "",
+                  "credit": 3,
+                  "id": "OIE 558"
+                }
+              ]
+            },
+            {
+              "name": "course_with_options2",
+              "credit": 3,
+              "course_list": [
+                {
+                  "name": "",
+                  "credit": 3,
+                  "id": "MIS 576"
+                },
+                {
+                  "name": "",
+                  "credit": 3,
+                  "id": "OBC 533"
+                },
+                {
+                  "name": "",
+                  "credit": 3,
+                  "id": "OBC 537"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Specialty in IT User Experience",
+          "courses_offered": [
+            {
+              "name": "",
+              "credit": 3,
+              "id": ""
+            },
+            {
+              "name": "",
+              "credit": 3,
+              "id": ""
+            },
+            {
+              "name": "",
+              "credit": 3,
+              "id": ""
+            }
+          ]
+        }
+      ]
+    },
+    "min_credit_req": 33
+  }
+}
